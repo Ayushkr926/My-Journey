@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ayushkr926/My-Journey/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
@@ -36,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ayushkr926/My-Journey/tree/master/2336-smallest-number-in-infinite-set) |
+## Greedy
+|  |
+| ------- |
+| [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 <!---LeetCode Topics End-->
