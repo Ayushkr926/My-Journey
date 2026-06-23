@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushkr926/My-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1143-longest-common-subsequence](https://github.com/Ayushkr926/My-Journey/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ayushkr926/My-Journey/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushkr926/My-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Ayushkr926/My-Journey/tree/master/0790-domino-and-tromino-tiling) |
+| [1143-longest-common-subsequence](https://github.com/Ayushkr926/My-Journey/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
