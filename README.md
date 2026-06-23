@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ayushkr926/My-Journey/tree/master/0216-combination-sum-iii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Ayushkr926/My-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Divide and Conquer
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushkr926/My-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0216-combination-sum-iii](https://github.com/Ayushkr926/My-Journey/tree/master/0216-combination-sum-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/Ayushkr926/My-Journey/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
