@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushkr926/My-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ayushkr926/My-Journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ayushkr926/My-Journey/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushkr926/My-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushkr926/My-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
