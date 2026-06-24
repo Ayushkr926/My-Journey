@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Ayushkr926/My-Journey/tree/master/0216-combination-sum-iii) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushkr926/My-Journey/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayushkr926/My-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushkr926/My-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Divide and Conquer
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushkr926/My-Journey/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayushkr926/My-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Ayushkr926/My-Journey/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayushkr926/My-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Binary Search
 |  |
