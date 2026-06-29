@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayushkr926/My-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/Ayushkr926/My-Journey/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushkr926/My-Journey/tree/master/0746-min-cost-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr926/My-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr926/My-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -28,17 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushkr926/My-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayushkr926/My-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ayushkr926/My-Journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ayushkr926/My-Journey/tree/master/0062-unique-paths) |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Combinatorics
 |  |
 | ------- |
@@ -153,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr926/My-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
