@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushkr926/My-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayushkr926/My-Journey/tree/master/0208-implement-trie-prefix-tree) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr926/My-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ayushkr926/My-Journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr926/My-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Ayushkr926/My-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0399-evaluate-division](https://github.com/Ayushkr926/My-Journey/tree/master/0399-evaluate-division) |
 | [1143-longest-common-subsequence](https://github.com/Ayushkr926/My-Journey/tree/master/1143-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr926/My-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr926/My-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
