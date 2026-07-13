@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ayushkr926/My-Journey/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushkr926/My-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ayushkr926/My-Journey/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Ayushkr926/My-Journey/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ayushkr926/My-Journey/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Ayushkr926/My-Journey/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayushkr926/My-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ayushkr926/My-Journey/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushkr926/My-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushkr926/My-Journey/tree/master/0746-min-cost-climbing-stairs) |
