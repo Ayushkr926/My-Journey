@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushkr926/My-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/1331-rank-transform-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/Ayushkr926/My-Journey/tree/master/1929-concatenation-of-array) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushkr926/My-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr926/My-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Ayushkr926/My-Journey/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
