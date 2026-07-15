@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ayushkr926/My-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayushkr926/My-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/Ayushkr926/My-Journey/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Ayushkr926/My-Journey/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/Ayushkr926/My-Journey/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ayushkr926/My-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Ayushkr926/My-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ayushkr926/My-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0645-set-mismatch](https://github.com/Ayushkr926/My-Journey/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayushkr926/My-Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2542-maximum-subsequence-score](https://github.com/Ayushkr926/My-Journey/tree/master/2542-maximum-subsequence-score) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ayushkr926/My-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ayushkr926/My-Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0523-continuous-subarray-sum](https://github.com/Ayushkr926/My-Journey/tree/master/0523-continuous-subarray-sum) |
+| [0645-set-mismatch](https://github.com/Ayushkr926/My-Journey/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayushkr926/My-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr926/My-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ayushkr926/My-Journey/tree/master/2336-smallest-number-in-infinite-set) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ayushkr926/My-Journey/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/Ayushkr926/My-Journey/tree/master/0645-set-mismatch) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ayushkr926/My-Journey/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Trie
 |  |
