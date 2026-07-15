@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Ayushkr926/My-Journey/tree/master/0399-evaluate-division) |
 | [1143-longest-common-subsequence](https://github.com/Ayushkr926/My-Journey/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushkr926/My-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/Ayushkr926/My-Journey/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ayushkr926/My-Journey/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushkr926/My-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ayushkr926/My-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Ayushkr926/My-Journey/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
 | ------- |
